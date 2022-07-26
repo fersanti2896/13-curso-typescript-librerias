@@ -1,0 +1,21 @@
+{
+  "name": "s13---librerias-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "",
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fersanti2896/13-curso-typescript-librerias.git"
+  },
+  "author": "Fer-Santi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fersanti2896/13-curso-typescript-librerias/issues"
+  },
+  "homepage": "https://github.com/fersanti2896/13-curso-typescript-librerias#readme"
+}
